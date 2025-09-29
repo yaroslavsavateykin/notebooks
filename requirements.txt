@@ -1,0 +1,8 @@
+pandas
+numpy
+scipy
+sympy
+matplotlib
+uncertainties
+ipykernel
+
