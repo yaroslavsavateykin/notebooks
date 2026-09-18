@@ -1,0 +1,54 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.24.0",
+    "script_metadata_hash": null
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "f034cde71c18a225c5c2350269533521",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "MJUe",
+      "code_hash": "d93ecd5ea2a98f533e7251e872c5e9e9",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<table border=\"1\" class=\"dataframe\"><thead><tr style=\"text-align: right;\"><th></th><th>C_Na</th><th>I_Na</th><th>C_K</th><th>I_K</th><th>C_Ca</th><th>I_Ca</th></tr></thead><tbody><tr><th>0</th><td>2.5</td><td>16</td><td>1</td><td>139</td><td>0.1</td><td>32</td></tr><tr><th>1</th><td>5.0</td><td>25</td><td>2</td><td>264</td><td>0.2</td><td>62</td></tr><tr><th>2</th><td>10.0</td><td>41</td><td>3</td><td>388</td><td>0.3</td><td>93</td></tr><tr><th>3</th><td>15.0</td><td>51</td><td>4</td><td>515</td><td>0.4</td><td>125</td></tr><tr><th>4</th><td>20.0</td><td>66</td><td>5</td><td>632</td><td>0.5</td><td>155</td></tr></tbody></table>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "vblA",
+      "code_hash": "f8972a407450aee608f426d934c1f395",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bkHC",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}

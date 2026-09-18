@@ -1,0 +1,12 @@
+[project]
+name = "radiochemistry-7-semester"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "marimo>=0.24.0",
+    "mpl-typst>=0.3.1",
+    "pandas>=3.0.5",
+    "uncertainty-tools>=0.1.3",
+]
